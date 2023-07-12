@@ -1,6 +1,6 @@
 # Utilizando Vault com External Secrets Operator
 
-Este projeto tem como objetivo demonstrar a integração do Vault com o Secrets Operator para gerenciamento seguro de segredos em uma aplicação. O Vault é uma ferramenta de gerenciamento de segredos desenvolvida pela HashiCorp, enquanto o Secrets Operator é uma extensão para o Kubernetes que facilita a integração entre o Vault e as aplicações em execução no cluster.
+Este projeto tem como objetivo demonstrar a integração do Vault com o External Secrets Operator. O objetivo do External Secrets Operator é sincronizar segredos de APIs externas no Kubernetes. ESO é uma coleção de recursos de API personalizados - ExternalSecret, SecretStoree ClusterSecretStoreque fornecem uma abstração amigável para a API externa que armazena e gerencia o ciclo de vida dos segredos para você.
 
 ## Configuração do Ambiente
 
