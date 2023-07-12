@@ -11,8 +11,8 @@ Antes de iniciar, certifique-se de ter o Docker instalado em sua máquina.
 1. Clone o repositório do projeto:
 
 ```bash
-git clone <URL_DO_REPOSITÓRIO>
-cd vault-docker/vault
+git clone https://github.com/mouradev1/vault-secrets-operator-example.git
+cd vault-secrets-operator-example/vault-docker
 
 ```
 ## Configurando o vault-cli para ter acesso ao seu Vault
