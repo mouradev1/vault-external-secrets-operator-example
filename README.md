@@ -1,4 +1,4 @@
-# Utilizando Vault com Secrets Operator
+# Utilizando Vault com External Secrets Operator
 
 Este projeto tem como objetivo demonstrar a integração do Vault com o Secrets Operator para gerenciamento seguro de segredos em uma aplicação. O Vault é uma ferramenta de gerenciamento de segredos desenvolvida pela HashiCorp, enquanto o Secrets Operator é uma extensão para o Kubernetes que facilita a integração entre o Vault e as aplicações em execução no cluster.
 
