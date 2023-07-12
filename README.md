@@ -13,6 +13,7 @@ Antes de iniciar, certifique-se de ter o Docker instalado em sua máquina.
 ```bash
 git clone https://github.com/mouradev1/vault-secrets-operator-example.git
 cd vault-secrets-operator-example/vault-docker
+docker-compose up -d
 
 ```
 ## Configurando o vault-cli para ter acesso ao seu Vault
