@@ -124,7 +124,7 @@ kubectl apply -f sources/vault-secrets.yaml
 
 ```
 ## Documentações de Referências
-
+<br>
 Aqui estão algumas documentações de referência que podem ser úteis para entender melhor o Vault, o Secrets Operator e o Helm:
 
 - [Documentação do Vault](https://developer.hashicorp.com/vault)
