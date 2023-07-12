@@ -11,8 +11,8 @@ Antes de iniciar, certifique-se de ter o Docker instalado em sua máquina.
 1. Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/mouradev1/vault-secrets-operator-example.git
-cd vault-secrets-operator-example/vault-docker
+git clone https://github.com/mouradev1/vault-external-secrets-operator-example.git
+cd vault-external-secrets-operator-example/vault-docker
 docker-compose up -d
 
 ```
